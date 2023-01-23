@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Youtube Clone Project with Microverse
+# My YouTube Clone Project with Microverse
 
 > Description the project.
 
@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://github.com/egichuhis/utube)
+[Live Demo Link](https://github.com/egichuhis/)
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ Have git installed on your local machine/PC.
 
 ### Setup
 
-Open the terminal and run `git clone https://github.com/egichuhis/utube.git`
+Open the terminal and run `git clone https://github.com/egichuhis/`
 
 ### Usage
 
